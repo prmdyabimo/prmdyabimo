@@ -1,7 +1,7 @@
 <h1>Hi, I'm ✨ Pramudya Bimo Pranoto ✨</h1>
 <img src="https://media.licdn.com/dms/image/D5616AQHVL53gDMfP8g/profile-displaybackgroundimage-shrink_350_1400/0/1717430910234?e=1723680000&v=beta&t=1N2-wNfk6bXXdvEUYoDFGgfgzu6UeMUHxocpMCrvkYk"/>
 
-I am a Fullstack Website Developer passionate about contributing to a more approachable open source, creating websites to improve the quality of society. Some technologies that I like are PHP, JavaScript and their frameworks.
+I am a Fullstack Website Developer with approximately 1 year of experience. My strengths are in the field of front end and back end developer, passionate about contributing to more approachable open source websites, developing a website to improve the quality of society. Some technologies that I like are PHP, JavaScript and their frameworks.
 
 - 🔭 I’m currently working on PT Four Best Synergy
 - 🌱 I’m currently learning Programming Language
